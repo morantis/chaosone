@@ -1,0 +1,9 @@
+Building ChaosOne
+
+See doc/readme-qt.rst for instructions on building ChaosOne-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ChaosOne.
+
+See doc/build-*.txt for instructions on building chaosoned,
+the intended-for-services, no-graphical-interface, reference
+implementation of ChaosOne.
